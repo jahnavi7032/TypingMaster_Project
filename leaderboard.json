@@ -1,0 +1,24 @@
+{
+    "leaderboard": [
+        {
+            "username": "pk",
+            "wpm": 22,
+            "category": "TypeScript"
+        },
+        {
+            "username": "prakash",
+            "category": "C#",
+            "wpm": 18.931171785517243
+        },
+        {
+            "username": "Omkar",
+            "wpm": 12.58185273381834,
+            "category": "TypeScript"
+        },
+        {
+            "username": "sachin",
+            "wpm": 9.041178489177288,
+            "category": "JavaScript"
+        }
+    ]
+}
